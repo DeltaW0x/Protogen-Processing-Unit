@@ -1,0 +1,183 @@
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=C?(CAP_0402)
+Added Component: Designator=D?(D_0402)
+Added Component: Designator=D?(D_0402)
+Added Component: Designator=D?(D_0402)
+Added Component: Designator=D?(D_0402)
+Added Component: Designator=D?(D_0402)
+Added Component: Designator=FB?(FB_0603)
+Added Component: Designator=J?(AMASS_XT90PW-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT90PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(AMASS_XT90PW-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT90PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(TC2030-NL-FP)
+Add component (AddParameter): Name = "Manfucaturer Number"; Value = "TC2030-NL-FP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402)
+Added Component: Designator=R?(RES_0402)
+Added Component: Designator=R?(RES_0402)
+Added Component: Designator=R?(RES_0402)
+Added Component: Designator=R?(RES_0402)
+Added Component: Designator=R?(RES_0402)
+Added Component: Designator=SW?(OS102011MA1QN1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "OS102011MA1QN1"; VariantName = "[No Variations]"
+Added Component: Designator=U200(FP-LQFP144-1A-IPC_A)
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=C?-2
+Added Pin To Net: NetName=+3.3V Pin=D?-K
+Added Pin To Net: NetName=+3.3V Pin=FB?-1
+Added Pin To Net: NetName=+3.3V Pin=J?-1
+Added Pin To Net: NetName=+3.3V Pin=J?-P
+Added Pin To Net: NetName=+3.3V Pin=J?-P
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=+3.3V Pin=SW?-1
+Added Pin To Net: NetName=+3.3V Pin=U200-6
+Added Pin To Net: NetName=+3.3V Pin=U200-17
+Added Pin To Net: NetName=+3.3V Pin=U200-30
+Added Pin To Net: NetName=+3.3V Pin=U200-39
+Added Pin To Net: NetName=+3.3V Pin=U200-52
+Added Pin To Net: NetName=+3.3V Pin=U200-62
+Added Pin To Net: NetName=+3.3V Pin=U200-72
+Added Pin To Net: NetName=+3.3V Pin=U200-84
+Added Pin To Net: NetName=+3.3V Pin=U200-95
+Added Pin To Net: NetName=+3.3V Pin=U200-108
+Added Pin To Net: NetName=+3.3V Pin=U200-121
+Added Pin To Net: NetName=+3.3V Pin=U200-131
+Added Pin To Net: NetName=+3.3V Pin=U200-144
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-N
+Added Pin To Net: NetName=GND Pin=J?-N
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=U200-16
+Added Pin To Net: NetName=GND Pin=U200-31
+Added Pin To Net: NetName=GND Pin=U200-38
+Added Pin To Net: NetName=GND Pin=U200-51
+Added Pin To Net: NetName=GND Pin=U200-61
+Added Pin To Net: NetName=GND Pin=U200-83
+Added Pin To Net: NetName=GND Pin=U200-94
+Added Pin To Net: NetName=GND Pin=U200-107
+Added Pin To Net: NetName=GND Pin=U200-120
+Added Pin To Net: NetName=GND Pin=U200-130
+Added Net: Name=GND
+Added Pin To Net: NetName=MCU_BOOT0 Pin=R?-2
+Added Pin To Net: NetName=MCU_BOOT0 Pin=U200-138
+Added Net: Name=MCU_BOOT0
+Added Pin To Net: NetName=MCU_PDR_ON Pin=R?-1
+Added Pin To Net: NetName=MCU_PDR_ON Pin=U200-143
+Added Net: Name=MCU_PDR_ON
+Added Pin To Net: NetName=MCU_RESET Pin=U200-25
+Added Net: Name=MCU_RESET
+Added Pin To Net: NetName=MCU_VCAP_1 Pin=C?-2
+Added Pin To Net: NetName=MCU_VCAP_1 Pin=U200-71
+Added Net: Name=MCU_VCAP_1
+Added Pin To Net: NetName=MCU_VCAP_2 Pin=C?-2
+Added Pin To Net: NetName=MCU_VCAP_2 Pin=U200-106
+Added Net: Name=MCU_VCAP_2
+Added Pin To Net: NetName=MCU_VDDA Pin=C?-2
+Added Pin To Net: NetName=MCU_VDDA Pin=C?-2
+Added Pin To Net: NetName=MCU_VDDA Pin=FB?-2
+Added Pin To Net: NetName=MCU_VDDA Pin=U200-32
+Added Pin To Net: NetName=MCU_VDDA Pin=U200-33
+Added Net: Name=MCU_VDDA
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=SW?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NRST Pin=C?-2
+Added Pin To Net: NetName=NRST Pin=R?-1
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=R?-1
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=R?-1
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=R?-1
+Added Net: Name=SWO
+Added Pin To Net: NetName=TC_NRST Pin=D?-K
+Added Pin To Net: NetName=TC_NRST Pin=J?-3
+Added Pin To Net: NetName=TC_NRST Pin=R?-2
+Added Net: Name=TC_NRST
+Added Pin To Net: NetName=TC_SWCLK Pin=D?-K
+Added Pin To Net: NetName=TC_SWCLK Pin=J?-4
+Added Pin To Net: NetName=TC_SWCLK Pin=R?-2
+Added Net: Name=TC_SWCLK
+Added Pin To Net: NetName=TC_SWDIO Pin=D?-K
+Added Pin To Net: NetName=TC_SWDIO Pin=J?-2
+Added Pin To Net: NetName=TC_SWDIO Pin=R?-2
+Added Net: Name=TC_SWDIO
+Added Pin To Net: NetName=TC_SWO Pin=D?-K
+Added Pin To Net: NetName=TC_SWO Pin=J?-6
+Added Pin To Net: NetName=TC_SWO Pin=R?-2
+Added Net: Name=TC_SWO
+Added Class: Name=PPU_Schematic
+Added Room: Name=PPU_Schematic
